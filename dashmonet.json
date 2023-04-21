@@ -1,0 +1,127 @@
+{
+    "name": "DashMonet",
+    "description": "Dash's personal Monet/Material You colour scheme.",
+    "authors": [
+        {
+            "name": "d.#0047",
+            "id": "715443625580036128"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#ff00ff"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#ff00ff"
+        ],
+        "TEXT_LINK": [
+            "#ff00ff"
+        ],
+        "TEXT_DANGER": [
+            "#ff00ff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#ff00ff"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#ff00ff"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#ff00ff"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ff00ff"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ff00ff"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#a0a0a0"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#999999"
+        ],
+        "TEXT_LINK": [
+            "#ff00ff"
+        ],
+        "CHANNEL_ICON": [
+            "#ff00ff"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#95d2b0",
+        "PRIMARY_500": "#95d2b0",
+        "PRIMARY_600": "#1a1c1b",
+        "PRIMARY_630": "#1a1c1b",
+        "PRIMARY_660": "#1a1c1b",
+        "PRIMARY_700": "#1a1c1b",
+        "PRIMARY_800": "#1a1c1b",
+        "BRAND_260": "#95d2b0",
+        "BRAND_360": "#95d2b0",
+        "BRAND_500": "#95d2b0",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#95d2b0",
+        "YELLOW_300": "#95d2b0",
+        "ORANGE_345": "#95d2b0",
+        "GREEN_345": "#95d2b0",
+        "GREEN_360": "#95d2b0",
+        "RED_560" : "#95d2b0",
+        "RED_400": "#95d2b0"
+    },
+    "spec": 2
+}
