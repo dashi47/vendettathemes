@@ -1,10 +1,10 @@
 {
     "name": "Dash's Monet",
-    "description": "A soothing blue to calm your days.",
+    "description": "A soothing blue to calm your days. This is NOT a "full" Monet/Material You theme.",
     "authors": [
         {
-            "name": "Wizzy#0211",
-            "id": "715443625580036128"
+            "name": "Dash47#0001",
+            "id": "1099412086074920962"
         }
     ],
     "semanticColors": {
@@ -12,7 +12,7 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#d5787b"
+            "#c4c4fc"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
@@ -110,9 +110,9 @@
         "PRIMARY_660": "#1f1f1f",
         "PRIMARY_700": "#1f1f1f",
         "PRIMARY_800": "#1f1f1f",
-        "BRAND_260": "#d5787b",
-        "BRAND_360": "#d5787b",
-        "BRAND_500": "#d5787b",
+        "BRAND_260": "#c4c4fc",
+        "BRAND_360": "#c4c4fc",
+        "BRAND_500": "#c4c4fc",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
         "BLUE_345": "#c4f4fc",
