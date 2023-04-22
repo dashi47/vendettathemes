@@ -1,6 +1,6 @@
 {
-    "name": "Vulcan (AMOLED)",
-    "description": "Warning: hot! Even hotter with AMOLED mode!",
+    "name": "Dash's Monet",
+    "description": "A soothing blue to calm your days.",
     "authors": [
         {
             "name": "Wizzy#0211",
@@ -18,13 +18,13 @@
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#d5787b"
+            "#c4c4fc"
         ],
         "TEXT_LINK": [
-            "#d5787b"
+            "#c4c4fc"
         ],
         "TEXT_DANGER": [
-            "#d5787b"
+            "#c4c4fc"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -48,7 +48,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#d5787b"
+            "#c4c4fc"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -63,13 +63,13 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#D5787B68"
+            "#c4c4fc68"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#d5787b"
+            "#c4c4fc"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
@@ -90,20 +90,20 @@
             "#cfcfcf"
         ],
         "TEXT_LINK": [
-            "#d5787b"
+            "#c4c4fc"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1f1f1f"
+            "#000000"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#d5787b",
+        "PRIMARY_360": "#c4c4fc",
         "PRIMARY_500": "#d5787b",
         "PRIMARY_600": "#1f1f1f",
         "PRIMARY_630": "#1f1f1f",
@@ -115,13 +115,13 @@
         "BRAND_500": "#d5787b",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#d5787b",
-        "YELLOW_300": "#d5787b",
-        "ORANGE_345": "#d5787b",
-        "GREEN_345": "#d5787b",
-        "GREEN_360": "#d5787b",
-        "RED_560" : "#d5787b",
-        "RED_400": "#d5787b"
+        "BLUE_345": "#c4f4fc",
+        "YELLOW_300": "#c4c4fc",
+        "ORANGE_345": "#c4c4fc",
+        "GREEN_345": "#c4c4fc",
+        "GREEN_360": "#c4c4fc",
+        "RED_560" : "#c4f4fc",
+        "RED_400": "#c4c4fc"
     },
     "spec": 2
 }
